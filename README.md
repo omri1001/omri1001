@@ -1,4 +1,8 @@
-![Header](./github-header-image.png)
+<!-- Centered & Full-Width Header -->
+<p align="center">
+  <img src="./github-header-image.png" alt="Header" width="100%" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Omri Rachmani!</h1>
 <h3 align="center">🚀 Full Stack Developer | AI & Simulation Enthusiast | DevOps & Cloud Practitioner</h3>
 
