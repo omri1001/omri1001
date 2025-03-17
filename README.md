@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">👋 Hi, I'm Omri Rachmani!</h1>
 <h3 align="center">🚀 Full Stack Developer | AI & Simulation Enthusiast | DevOps & Cloud Practitioner</h3>
 
