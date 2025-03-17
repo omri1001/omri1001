@@ -48,7 +48,7 @@ I am a **Full Stack Developer** with **2+ years of experience**, passionate abou
 
 ### 🏆 Projects  
 
-📌 **[AI-Powered Data Management System](https://github.com/omri1001)** - Built using **React, TypeScript, Flask, LangChain, MongoDB, and Pinecone**.  
+📌 **[AI-Powered Data Management System](https://github.com/omri1001/dca-webapp)** - Built using **React, TypeScript, Flask, LangChain, MongoDB, and Pinecone**.  
 📌 **[Military Simulation Environment](https://github.com/omri1001)** - Developed GIS-based environments for **Unreal Engine & Bohemia Engine**.  
 📌 **[LLM-Powered Telegram Bot](https://github.com/omri1001)** - Automates document generation with **GPT-4o, React Agents, and AWS**.  
 📌 **[Real-Time News Scraper & AI Chat](https://github.com/omri1001)** - Integrated OpenAI’s LLM for **data-driven decision-making**.  
